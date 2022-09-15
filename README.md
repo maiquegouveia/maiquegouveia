@@ -2,7 +2,7 @@
 
 - 👨‍💻 Tech Lover
 - 👉 Future Ethical Hacker
-- 🌱 Currently Studying Python and JavaScript
+- 🌱 Currently studying Python and JavaScript
 - 📪 E-mail: maiquebusiness@gmail.com
 
 <div>
