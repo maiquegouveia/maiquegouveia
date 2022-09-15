@@ -1,8 +1,9 @@
-### Olá! Eu sou Maique Gouveia!
+### Hi there! I'm Maique Gouveia!
 
-- 👉 Interesse pela área de Segurança da Informação
-- 🌱 Atualmente estudando Python e JavaScript
-- 📫 Contato: maiquebusiness@gmail.com
+- 👨‍💻 Tech Lover
+- 👉 Future Ethical Hacker
+- 🌱 Currently Studying Python and JavaScript
+- 📪 E-mail: maiquebusiness@gmail.com
 
 <div>
   <a href="https://github.com/maiquegouveia">
