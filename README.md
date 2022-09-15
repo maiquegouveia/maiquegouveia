@@ -17,4 +17,3 @@
   <img align="center" alt="Maique-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Maique-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
-![Snake animation](https://github.com/maiquegouveia/maiquegouveia/blob/output/github-contribution-grid-snake.svg)
