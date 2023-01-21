@@ -1,8 +1,7 @@
 ### Hi there! I'm Maique Gouveia!
 
 - 👨‍💻 Tech Lover 
-- 👉 Future Ethical Hacker
-- 🌱 Currently studying Python and Java
+- 👉 Currently studying Python and Java
 - 📪 E-mail: maiquebusiness@gmail.com
 
 <div>
