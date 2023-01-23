@@ -6,9 +6,9 @@
 
 <div>
   <a href="https://github.com/maiquegouveia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maiquegouveia&show_icons=true&theme=codeSTACKr "/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maiquegouveia&show_icons=true&theme=codeSTACKr"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiquegouveia&layout=compact&langs_count=10&theme=codeSTACKr "/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiquegouveia&layout=compact&langs_count=10&theme=codeSTACKr"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Maique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
