@@ -10,7 +10,7 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiquegouveia&layout=compact&langs_count=10&theme=codeSTACKr"/>
 </div>
-  <img src"https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats"/>
+  <img src"https://github-readme-stats.vercel.app/api/pin/?username=maiquegouveia&repo=github-readme-stats"/>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Maique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
