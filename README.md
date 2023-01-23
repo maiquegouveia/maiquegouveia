@@ -7,6 +7,7 @@
 <div>
   <a href="https://github.com/maiquegouveia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maiquegouveia&show_icons=true&theme=radical"/>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiquegouveia&layout=compact&langs_count=10&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
