@@ -15,7 +15,7 @@
 <a href="https://linkedin.com/in/maique-gouveia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maique-gouveia" height="30" width="40" /></a>
 <a href="https://instagram.com/maiquesz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maiquesz" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/maiquegouveia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="maiquegouveia" height="30" width="40" /></a>
-<a href="https://discord.gg/475427764103675926" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="475427764103675926" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/475427764103675926" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="475427764103675926" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
