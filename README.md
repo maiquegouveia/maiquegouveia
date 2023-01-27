@@ -4,7 +4,7 @@
 
 - 👨‍💻 Tech Lover
 
-- 🌱 I’m currently learning **Flask, Django, Kivy and JavaScript**
+- 🌱 I’m currently learning **Flask, Django**
 
 - 📫 How to reach me **maiquebusiness@gmail.com**
 
