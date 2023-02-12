@@ -24,7 +24,7 @@
 <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=html" alt="html" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=css" alt="css" width="40" height="40"/>
