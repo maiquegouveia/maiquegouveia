@@ -32,7 +32,6 @@
 <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=postgres" alt="postgres" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/>
 </p>
 
