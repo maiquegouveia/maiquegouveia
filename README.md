@@ -20,12 +20,20 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=html" alt="html" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=css" alt="css" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=postgres" alt="postgres" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/>
 </p>
 
 <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=maiquegouveia&show_icons=true&theme=codeSTACKr" alt="maiquegouveia" />
