@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maique Gouveia</h1>
 <h3 align="center">A passionate Back-End Developer from Brazil 🌎</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
 - 👨‍💻 Tech Lover
 
@@ -34,6 +33,3 @@
 <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/>
 </p>
-
-<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=maiquegouveia&show_icons=true&theme=codeSTACKr" alt="maiquegouveia" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiquegouveia&layout=compact&langs_count=10&theme=codeSTACKr" alt="maiquegouveia" />
