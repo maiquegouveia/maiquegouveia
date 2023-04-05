@@ -3,11 +3,11 @@
 
 - 👨‍💻 Tech Lover
 
-- 🌱 I’m currently learning **Django and Flask**
+- 🌱 I’m currently learning **React and React Native**
 
 - 📫 How to reach me **maiquebusiness@gmail.com**
 
-- ⚡ Fun fact **Python is the best**
+- ⚡ Fun fact **JavaScript && Python are the best**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
