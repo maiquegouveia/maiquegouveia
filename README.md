@@ -11,10 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/maique-gouveia" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maique-gouveia" height="30" width="40" /></a>
-<a href="https://instagram.com/maiquesz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maiquesz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/maique-gouveia" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="maique-gouveia" height="30" width="40" /></a>
+<a href="https://instagram.com/maiquesz" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="maiquesz" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/maiquegouveia" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="maiquegouveia" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/475427764103675926" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="475427764103675926" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/475427764103675926" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="475427764103675926" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,9 +24,11 @@
 <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=html" alt="html" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=css" alt="css" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=postgres" alt="postgres" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/>
 </p>
