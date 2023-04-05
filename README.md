@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Maique Gouveia</h1>
-<h3 align="center">A passionate Back-End Developer from Brazil 🌎</h3>
+<h3 align="center">A passionate Full-Stack Developer from Brazil 🌎</h3>
 
 - 👨‍💻 Tech Lover
 
-- 🌱 I’m currently learning **React and React Native**
+- 🌱 I’m currently learning **React && React Native**
 
 - 📫 How to reach me **maiquebusiness@gmail.com**
 
@@ -19,16 +19,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=html" alt="html" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=css" alt="css" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=postgres" alt="postgres" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/>
