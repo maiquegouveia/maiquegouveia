@@ -1,13 +1,14 @@
-<h1>Hi 👋,</h1>
+<h1>Hi there! My name is Maique 👋</h1>
 <p align="left">
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-<a href="https://linkedin.com/in/maique-gouveia" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="maique-gouveia" height="30" width="30" /></a>
-<a href="https://instagram.com/maiquesz" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="maiquesz" height="30" width="30" /></a>
-<a href="https://www.leetcode.com/maiquegouveia" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="maiquegouveia" height="30" width="30" /></a>
-<a href="https://discordapp.com/users/475427764103675926" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="475427764103675926" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/maique-gouveia)](https://linkedin.com/in/maique-gouveia)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://www.leetcode.com/maiquegouveia)](https://www.leetcode.com/maiquegouveia)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:maiquebusiness@gmail.com)](mailto:nanda.kipper@gmail.com)
+- 🎓 Computer Science Student
+- ⚡ **TypeScript** is the best
+- 💡 Love a good challenge
+  
+<h3 align="left">Stacks:</h3>
 <p align="left">
 <img src="https://skillicons.dev/icons?i=typescript" alt="typescript" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="40" height="40"/>
