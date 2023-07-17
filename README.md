@@ -3,8 +3,6 @@
 
 - 👨‍💻 Tech Lover
 
-- 🌱 I’m currently learning **React && React Native**
-
 - 📫 How to reach me **maiquebusiness@gmail.com**
 
 - ⚡ Fun fact **JavaScript && Python are the best**
