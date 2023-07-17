@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **maiquebusiness@gmail.com**
 
-- ⚡ Fun fact **JavaScript && Python are the best**
+- ⚡ Fun fact **TypeScript is the best**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,16 +17,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+<img src="https://skillicons.dev/icons?i=typescript" alt="typescript" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=nodejs" alt="node" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=html" alt="html" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=css" alt="css" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=postgres" alt="postgres" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/>
 </p>
